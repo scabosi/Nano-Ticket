@@ -1,0 +1,202 @@
+
+html 				{font-family: arial;
+					font-size: 14px;}
+
+h1	{				font-size: 16px;
+					display: block;
+					-webkit-margin-before: 0.0em;
+					-webkit-margin-after: 0.0em;
+					-webkit-margin-start: 0px;
+					-webkit-margin-end: 0px;
+					font-weight: bold;}
+
+h2	{				font-size: 12px;
+					display: block;
+
+					-webkit-margin-before: 0em;
+					-webkit-margin-after: 0em;
+					-webkit-margin-start: 0px;
+					-webkit-margin-end: 0px;
+					font-weight: bold;}
+
+h3	{				font-size: 18px;
+					display: block;
+					text-align:center;
+					-webkit-margin-before: 0em;
+					-webkit-margin-after: 0em;
+					-webkit-margin-start: 0px;
+					-webkit-margin-end: 0px;
+					font-weight: bold;}
+
+
+
+#document_nr	{display: block;
+					font-size: 20px;
+					font-weight: bold;
+					-webkit-margin-before: 0em;
+					-webkit-margin-after: 1em;
+					-webkit-margin-start: 0px;
+					-webkit-margin-end: 0px;}
+
+#wrapper	{		padding:20px;
+
+}
+
+#header_left{
+
+					width: 70%;
+					float:left;
+}
+
+#header_right{
+					font-size: 11px;
+
+					width:30%;
+					float:left;
+					padding-bottom: 20px;}
+
+#clear{				clear: both;}
+
+#names{
+					height:50px;
+					padding-top:30px;
+					padding-bottom: 10px;
+					width:100%;}
+
+.paragraph_spacer {margin-top: 40px;}
+
+.empty_cell			{width:220px;
+
+					border-bottom: 1px solid black;}
+
+.names_right		{padding-left:70px;}
+
+#table_wrapper{		text-align: center;
+					font-size: 10px;
+					margin-top:20px;}
+
+.item_table{		border: 1px solid black;
+					border-spacing:0px;
+					margin: 0 auto; /* or margin: 0 auto 0 auto */}
+.item_table td 		{border-right: 1px solid black;
+					padding-left:10px;
+					padding-right:10px;
+					}
+
+.item_table th 		{border-right: 1px solid black;
+
+					}
+
+
+
+
+
+.table_row{			}
+
+.tab_pos{			padding:5px;
+					width:10%;
+					text-align: center;}
+
+.tab_quant{			padding:5px;
+					width:10%;
+					text-align: center;}
+
+.tab_type{			padding:5px;
+					width:50%;
+					text-align: center;}
+
+.tab_serial{		padding:5px;
+					width:15%;
+					text-align: center;}
+
+.tab_inv{			padding:5px;
+					width:10%;
+					text-align: center;}
+
+.tab_price{			padding:5px;
+					width:12%;
+					text-align: center;}
+
+#rules	{			text-align: justify;
+					font-size: 12px;
+					padding-top: 30px;
+					padding-bottom: 30px;
+
+}
+
+.price_cell {text-align: right;margin-right:20 px;}
+
+#sign {margin-bottom: 20px;}
+
+
+.sign1 {			width:100px;
+					border-bottom: 1px solid black;
+
+}
+
+.sign2{				width:250px;
+					border-bottom: 1px solid black;
+
+}
+.tab_spacer {		width:150px;
+
+}
+
+#footer {			border: 3px solid black;
+					padding:5px;
+
+}
+
+.container-margin {padding-top: 30px;}
+
+.bg-danger {
+		background-color: #f2dede !important;
+}
+
+.align_right {
+
+}
+
+.login_info {
+			text-align: center;
+  			width: 500px ;
+  			margin: 0 auto ;
+
+
+}
+
+td {
+    white-space: nowrap;
+}
+
+
+
+.borrow_tab_row {border-top: 1px solid black;}
+
+#logo {background-image: url("/images/hff_logo.png");
+
+		height:43px;
+		width:161px;}
+
+
+#sortable1, #sortable2 {
+    border: 1px solid #eee;
+    width: 142px;
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 0 0 0;
+    float: left;
+    margin-right: 10px;
+  }
+  #sortable1 li, #sortable2 li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 120px;
+  }
+
+#logo_div {width:400px;
+			height:102px;
+			margin: 0 auto;
+			background-image: url("/images/filmuni_logo.png");}

@@ -1,0 +1,40 @@
+body 				{padding-top: 30px;}
+
+.modal-header		{border-top-left-radius: 6px;
+					border-top-right-radius: 6px;}
+
+
+.starter-template 	{padding: 40px 15px;}
+
+#main_panel 		{padding:30px;
+					margin-top:50px;}
+
+.row_space			{display:inline-block;width:150px;}
+
+.form-horizontal 	{text-align: left !important;  }
+
+.control-label		{text-align: left !important;}
+
+.radio_prod			{padding:20px;}
+
+.badge-open			{background-color: #d43f3a;}
+
+.badge-busy			{background-color: #eea236;}
+
+.badge-closed		{background-color: #4cae4c;}
+
+#badge_container	{margin-top:14px;margin-bottom:10px;}
+
+#search_button_area {float:left;width:300px;margin-bottom:10px;
+					padding-top:5px;}
+
+#search_ticket_area	{float:left;width:276px;}
+
+.chart_wrapper		{float:left;
+					padding-left:10px;
+					padding-right:15px;}
+
+.chart_wrapper_line		{float:left;width:100%;
+						height:230px;
+						margin-bottom: 20px;
+					padding-right:10px;}			
